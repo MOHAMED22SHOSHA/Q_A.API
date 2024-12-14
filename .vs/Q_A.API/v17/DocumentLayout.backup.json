@@ -91,7 +91,8 @@
               "RelativeToolTip": "Q_A.API\\Migrations\\20241201110439_updatetable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:04:42.464Z"
+              "WhenOpened": "2024-12-01T11:04:42.464Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -152,7 +153,8 @@
               "RelativeToolTip": "Q_A.API\\Models\\question.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:45:50.544Z"
+              "WhenOpened": "2024-11-29T15:45:50.544Z",
+              "EditorCaption": ""
             }
           ]
         }
