@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\q_a.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\q_a.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\controllers\\questionscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\q_a.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\q_a.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\migrations\\20241201110439_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\migrations\\20241201110439_updatetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|d:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\q_a.api\\q_a.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4473FEF2-AAFA-46A7-8E74-4C25ABEF5B6E}|Q_A.API\\Q_A.API.csproj|solutionrelative:q_a.api\\models\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -71,15 +71,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Q_A.API",
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\appsettings.json",
+              "RelativeDocumentMoniker": "Q_A.API\\appsettings.json",
+              "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\appsettings.json",
+              "RelativeToolTip": "Q_A.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-20T13:32:40.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Q_A.API.csproj",
               "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Q_A.API.csproj",
               "RelativeDocumentMoniker": "Q_A.API\\Q_A.API.csproj",
               "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Q_A.API.csproj",
               "RelativeToolTip": "Q_A.API\\Q_A.API.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T09:48:20.711Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-02T09:48:20.711Z"
             },
             {
               "$type": "Document",
@@ -91,12 +103,11 @@
               "RelativeToolTip": "Q_A.API\\Migrations\\20241201110439_updatetable.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-01T11:04:42.464Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-01T11:04:42.464Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 4,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Q_A.API\\Data\\AppDbContext.cs",
@@ -108,44 +119,32 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\appsettings.json",
-              "RelativeDocumentMoniker": "Q_A.API\\appsettings.json",
-              "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\appsettings.json",
-              "RelativeToolTip": "Q_A.API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-11-30T11:29:58.452Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Program.cs",
               "RelativeDocumentMoniker": "Q_A.API\\Program.cs",
               "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Program.cs",
               "RelativeToolTip": "Q_A.API\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAYAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAABAmZmZmZkpwB8AAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T18:05:10.095Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "QuestionsController.cs",
-              "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Controllers\\QuestionsController.cs",
-              "RelativeDocumentMoniker": "Q_A.API\\Controllers\\QuestionsController.cs",
-              "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Controllers\\QuestionsController.cs",
-              "RelativeToolTip": "Q_A.API\\Controllers\\QuestionsController.cs",
-              "ViewState": "AgIAABEAAAAgZmZmZmY6wCMAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:46:00.176Z",
+              "WhenOpened": "2024-11-29T18:05:10.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "QuestionsController.cs",
+              "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Controllers\\QuestionsController.cs",
+              "RelativeDocumentMoniker": "Q_A.API\\Controllers\\QuestionsController.cs",
+              "ToolTip": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Controllers\\QuestionsController.cs",
+              "RelativeToolTip": "Q_A.API\\Controllers\\QuestionsController.cs",
+              "ViewState": "AgIAAAUAAACg+v////8lwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-29T15:46:00.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "question.cs",
               "DocumentMoniker": "D:\\\u0643\u0644\u064A\u0629 \u062A\u0627\u0644\u062A\u0629\\open source project\\src\\Q_A.API\\Q_A.API\\Models\\question.cs",
               "RelativeDocumentMoniker": "Q_A.API\\Models\\question.cs",
@@ -153,8 +152,7 @@
               "RelativeToolTip": "Q_A.API\\Models\\question.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-29T15:45:50.544Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-29T15:45:50.544Z"
             }
           ]
         }
