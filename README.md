@@ -45,7 +45,14 @@ Interacts with the backend **Q_A.API** job opportunities such as:
 - Submit student questions via API.
 - Display questions and answers answered by staff.
 - Provide time-in-action updates for the latest questions answered.
+---
+## Desktop Application Repository
 
+This repository contains the code for the **Desktop Application** that is used by staff, administrators and teachers to manage the center.
+
+You can explore the Desktop Application Repository here:
+
+[Desktop Application Repository on GitHub](https://github.com/khaledrokaya/EducationalCenterFinal)
 ---
 
 ## Live Demo
